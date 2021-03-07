@@ -3,6 +3,10 @@
 		{
 			"name": "Blink",
 			"path": "Blink"
+		},
+		{
+			"name": "Wifi",
+			"path": "Wifi"
 		}
 	]
 }
